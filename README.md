@@ -39,7 +39,7 @@ Magic (holy or arcane) is not available at the beginning.
 
 # Campaign
 
-## PRELUDE
+## Prelude
 
 The players are mercenaries hired by the Sterk Trading Company, at the service of the Burgundian Diplomatic Mission.
 
@@ -132,11 +132,14 @@ The officers managed an audience with Emperor John V, only to be greeted by his 
 He claims his father is grandfather is dead, and he is the new Emperor.
 But the truth is far more sinister than that, and the world will never more be the same.
 
-### Conclusion
+### End of Chapter 1
 
 With the death of John VII, his grandfather is released from his magical prison.
 However, by shattering the magical device his grandson brought from the East, Magic has started
 to spread in between the population, and mythical creatures becoming a common sight across the land.
+
+The players are tasked to continue east, where they are to seek for more information about this magical devices,
+and strengthen the trading company interests in the mean time.
 
 
 
