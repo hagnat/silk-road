@@ -1,7 +1,7 @@
 The Silk Road
 =============
 
-# SCENARIO
+# Scenario
 
 The Netherlands, 1390. Late Medieval Age.
 
@@ -141,9 +141,17 @@ to spread in between the population, and mythical creatures becoming a common si
 The players are tasked to continue east, where they are to seek for more information about this magical devices,
 and strengthen the trading company interests in the mean time.
 
+## Chapter 2 : from Constantinople to India
+
+WIP
 
 
 
+
+
+# Author(s)
+
+* Valdir Bruxel Junior, aka 'hagnat'
 
 
 
